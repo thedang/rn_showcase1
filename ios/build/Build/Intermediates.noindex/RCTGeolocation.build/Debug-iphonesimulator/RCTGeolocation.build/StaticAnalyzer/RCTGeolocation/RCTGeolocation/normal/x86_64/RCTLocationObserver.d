@@ -1,0 +1,23 @@
+dependencies: \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/DATA/workspace/react-native/first_app/showcase1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h
